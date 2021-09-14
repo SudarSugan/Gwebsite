@@ -1,0 +1,8 @@
+<div class="sidebareOption">
+          <span class="material-icons">
+            chevron_right
+            </span><h3>chart</h3>
+                        <span class="material-icons">
+              add
+              </span>
+        </div>
